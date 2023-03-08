@@ -1,18 +1,18 @@
 <b>Course Name :</b> Smartphone application development-assignment1
 **Learning Objective**:goal of the assignment is to apply implicit intent concepts and invoke web link & phone calls.
-### Mobile app home page:
+### Implicit intent app home page:
 ![home](screenshots/MainPage.png)
 
-### Web page launched through implicit intent: 
+### Web page launched through implicit intent app: 
 ![sjsu](screenshots/Sjsu.png)
 
-### Launching a call through implicit intent:
+### Launching a call through implicit intent app :
 ![phone number](screenshots/phonenumber.png)
 
-### Call launched through implicit intent:
+### Call launched through implicit intent app :
 ![ring](screenshots/ring.png)
 
-### Implicit Intent and invoke web link & phone calls:
+### Implicit Intent app and invoke web link & phone calls:
 ![implicit_intent.gif](screenshots/implicit_intent.gif)
 
 
