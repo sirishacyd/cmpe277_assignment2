@@ -1,4 +1,4 @@
-<b>Course Name :</b> Smartphone application development-assignment1
+<b>Course Name :</b> Smartphone application development-assignment2
 
 **Learning Objective**:goal of the assignment is to apply implicit intent concepts and invoke web link & phone calls.
 
